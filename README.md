@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Aathira
+# 👋 Hey there! I'm S Aathira
 
 Welcome to my GitHub profile! I'm currently a **B.Tech student in Artificial Intelligence & Machine Learning** with a growing interest in coding, data science, and building tech that solves real-world problems.
 
