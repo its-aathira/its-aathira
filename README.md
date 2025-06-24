@@ -24,7 +24,8 @@ Welcome to my GitHub profile! I'm currently a **B.Tech student in Artificial Int
 <p align="center">
   <a href="https://linkedin.com/in/http://www.linkedin.com/in/s-aathira-215b19290" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/https://leetcode.com/u/Aathira_S/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/saathirhvsb/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/saathirhvsb/
+/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" /></a>
 </p>
 
 
