@@ -11,11 +11,6 @@ I’m deeply interested in **data analytics**, **machine learning**, and applyin
 - 🛠 Love building projects to strengthen understanding  
 - 📈 Focused on long-term growth, consistency, and impact
 
-## Technical Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,linux,html,css,js,mysql" />
-</p>
-
 ## What I'm Working On
 - Strengthening core programming and problem-solving skills  
 - Building data analytics and ML-based projects  
@@ -31,11 +26,11 @@ I’m deeply interested in **data analytics**, **machine learning**, and applyin
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-aathira&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=its-aathira&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=its-aathira&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=its-aathira&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🌐 Connect with Me
