@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/its-aathira/its-aathira/main/header.svg" alt="Aathira — AI · ML · Data Science" width="100%"/>
+<img src="https://raw.githubusercontent.com/its-aathira/its-aathira/main/header.svg?v=2" alt="Aathira — AI · ML · Data Science" width="100%"/>
 
 </div>
 
