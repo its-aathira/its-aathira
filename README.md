@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- HERO BANNER — animated SVG, renders on GitHub -->
-<img src="https://raw.githubusercontent.com/its-aathira/its-aathira/main/header.svg" alt="Aathira's GitHub Profile Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/its-aathira/its-aathira/main/header.svg" alt="Aathira — AI · ML · Data Science" width="100%"/>
 
 </div>
 
@@ -9,13 +8,12 @@
 
 ### 🧠 About me
 
-I'm an aspiring **AI / ML & Data Science engineer** passionate about building production-ready intelligent systems — from fine-tuned models to end-to-end RAG pipelines. I like going deep on how things actually work before I build them.
+I'm an aspiring **AI / ML & Data Science engineer** who loves building production-ready intelligent systems — from RAG pipelines to fine-tuned models. I go deep on how things actually work before I build them.
 
-- 🔭 Currently working on: **Docwise** — a production-grade RAG system with hybrid retrieval & CI evaluation
-- 🌱 Exploring: LLM evaluation, vector databases, and agentic workflows
+- 🌱 Exploring: LLM evaluation, vector databases, agentic workflows
 - 💬 Ask me about: RAG pipelines, embeddings, retrieval strategies, LLMs
-- 📍 Based in Thiruvananthapuram, India
-- 🎯 Goal: AI / ML Engineering & Data Science roles
+- 📍 Thiruvananthapuram, India
+- 🎯 Open to: AI · ML Engineering · Data Science roles
 
 ---
 
@@ -30,7 +28,7 @@ I'm an aspiring **AI / ML & Data Science engineer** passionate about building pr
 **AI / ML**
 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![sentence--transformers](https://img.shields.io/badge/sentence--transformers-7E69FF?style=flat-square&logoColor=white)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-7E69FF?style=flat-square&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logoColor=white)
 ![LLaMA3](https://img.shields.io/badge/LLaMA3-0467DF?style=flat-square&logoColor=white)
@@ -57,7 +55,7 @@ I'm an aspiring **AI / ML & Data Science engineer** passionate about building pr
 
 **[📄 Docwise](https://github.com/its-aathira/Production-Grade-RAG)**
 
-Production-grade RAG system built from scratch across 3 phases: ingestion pipeline, hybrid retrieval + answer generation, and CI-backed evaluation.
+Production-grade RAG system built across 3 phases: ingestion pipeline, hybrid retrieval + answer generation, and CI-backed evaluation.
 
 `Python` `FastAPI` `Qdrant` `BM25 · RRF` `Ollama` `Docker` `GitHub Actions`
 
@@ -84,28 +82,26 @@ AI mental health chatbot powered by LLaMA3 via Groq API — empathetic, context-
 
 <div align="center">
 
-![Aathira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-aathira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7e69ff&icon_color=1d9e75&text_color=9896c8)
+![Aathira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-aathira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f1a&title_color=c57bff&icon_color=e879a0&text_color=9896c8&ring_color=7c6eff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-aathira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7e69ff&text_color=9896c8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-aathira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f1a&title_color=c57bff&text_color=9896c8)
 
 </div>
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/s-aathira-215b19290)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/its-aathira)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saathira2004@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>
-  <img src="https://img.shields.io/badge/🟢_Open_to-AI · ML · Data_Science_roles-1d9e75?style=flat-square&labelColor=0d1117&color=1d9e75"/>
-</sub>
+  <img src="https://img.shields.io/badge/🌸_Open_to-AI_·_ML_·_Data_Science_roles-c57bff?style=flat-square&labelColor=0d0f1a&color=c57bff"/>
 </div>
