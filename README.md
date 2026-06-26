@@ -36,8 +36,6 @@ I'm an aspiring **AI / ML & Data Science engineer** who loves building productio
 **Data & Vector DBs**
 
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
-![BM25](https://img.shields.io/badge/BM25_·_RRF-1d9e75?style=flat-square&logoColor=white)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-333333?style=flat-square&logoColor=white)
 
 **DevOps & Tools**
 
@@ -94,7 +92,7 @@ AI mental health chatbot powered by LLaMA3 via Groq API — empathetic, context-
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/s-aathira-215b19290)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/s-aathira)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/its-aathira)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saathira2004@gmail.com)
 
